@@ -7,7 +7,7 @@ about:
   head: e0e4c04
   archived: false
   latestVersion: v0.0.0-alpha.0
-  collectedAt: 2026-09-04T19:39:48Z
+  collectedAt: 2026-09-04T20:57:01Z
 timeline:
   created: 2019-05-28
   lastCommit: 2026-09-02
@@ -83,6 +83,119 @@ total:
   openIssue: 12
   commit: 6019
 ---
+path: /home/runner/.x-repo/github.com/openshift/oc
+collectedAt: 2026-09-04T20:57:08Z
+loc:
+  Go:
+    code: 1996830
+    comments: 437189
+    blanks: 230961
+    files: 10159
+  Yaml:
+    code: 111475
+    comments: 1256
+    blanks: 1030
+    files: 233
+  Json:
+    code: 67504
+    comments: 0
+    blanks: 3
+    files: 33
+  AssemblyGAS:
+    code: 14284
+    comments: 1550
+    blanks: 2986
+    files: 91
+  Protobuf:
+    code: 10615
+    comments: 27750
+    blanks: 6169
+    files: 90
+  Sh:
+    code: 2153
+    comments: 284
+    blanks: 205
+    files: 27
+  Makefile:
+    code: 1567
+    comments: 385
+    blanks: 461
+    files: 85
+  C:
+    code: 714
+    comments: 84
+    blanks: 129
+    files: 7
+  Bash:
+    code: 555
+    comments: 76
+    blanks: 69
+    files: 11
+  Happy:
+    code: 466
+    comments: 0
+    blanks: 45
+    files: 1
+  CHeader:
+    code: 128
+    comments: 34
+    blanks: 44
+    files: 4
+  RPMSpecfile:
+    code: 127
+    comments: 10
+    blanks: 26
+    files: 1
+  Dockerfile:
+    code: 107
+    comments: 5
+    blanks: 10
+    files: 2
+  Hcl:
+    code: 80
+    comments: 3
+    blanks: 13
+    files: 1
+  Python:
+    code: 69
+    comments: 19
+    blanks: 17
+    files: 1
+  Toml:
+    code: 14
+    comments: 45
+    blanks: 7
+    files: 3
+  Bitbake:
+    code: 12
+    comments: 0
+    blanks: 1
+    files: 2
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19267
+    blanks: 10815
+    files: 258
+  Text:
+    code: 0
+    comments: 8063
+    blanks: 702
+    files: 52
+total:
+  code: 2209138
+  comments: 496455
+  blanks: 254164
+  files: 11064
 ---
 date: "2026-08-24"
 repo:
