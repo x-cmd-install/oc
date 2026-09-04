@@ -1,0 +1,59 @@
+about:
+  description: The OpenShift Command Line, part of OKD
+  license: Apache-2.0
+  homepage: https://www.openshift.org
+  head: e0e4c04
+  archived: false
+  latestVersion: v0.0.0-alpha.0
+  collectedAt: 2026-09-04T04:26:17Z
+timeline:
+  created: 2019-05-28
+  lastCommit: 2026-09-02
+  lastRelease: 2019-07-18
+popularity:
+  star: 245
+  watcher: 20
+  fork: 470
+  release: 1
+  contributor: 3079
+  pullRequest: 594
+  issue: 223
+language:
+  Go: 5155713
+  Shell: 22586
+  Makefile: 6336
+  Dockerfile: 1768
+totalLine: 5186403
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 14
+    openPR: 15
+    closedIssue: 1
+    openIssue: 1
+    commit: 5
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 45
+    openPR: 27
+    closedIssue: 3
+    openIssue: 2
+    commit: 45
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 79
+    openPR: 32
+    closedIssue: 4
+    openIssue: 4
+    commit: 79
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 166
+    openPR: 34
+    closedIssue: 13
+    openIssue: 5
+    commit: 175
