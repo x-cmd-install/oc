@@ -1,6 +1,24 @@
----
-owner-repo: openshift/oc
-desc:   The OpenShift Command Line, part of OKD 
----
-
 # oc
+
+The OpenShift Command Line, part of OKD
+
+- **Upstream**: <https://github.com/openshift/oc>
+- **Homepage**: <https://www.openshift.org>
+- **Latest release**: `v0.0.0-alpha.0` (n/a)
+- **Last commit**: 2026-09-02
+- **License**: Apache-2.0
+- **Stars**: 245 · **Forks**: 473 · **Open issues**: 224 · **Contributors**: 580
+
+## Installation
+
+```sh
+x install oc
+```
+
+See <https://x-cmd.com/install/oc> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:22:18Z._
