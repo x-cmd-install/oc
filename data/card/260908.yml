@@ -5,7 +5,7 @@ about:
   head: e0e4c04
   archived: false
   latestVersion: "v0.0.0-alpha.0"
-  collectedAt: 2026-09-08T02:21:10Z
+  collectedAt: 2026-09-08T05:33:04Z
 timeline:
   created: 2019-05-28
   lastCommit: 2026-09-02
@@ -17,7 +17,7 @@ popularity:
   release: 1
   contributor: 580
   pullRequest: 2169
-  issue: 223
+  issue: 224
 language:
   Go: 5155713
   Shell: 22586
@@ -31,7 +31,7 @@ recent:
     mergedPR: 12
     openPR: 13
     closedIssue: 1
-    openIssue: 1
+    openIssue: 2
     commit: 3
   last60d:
     since: 2026-07-10
@@ -39,7 +39,7 @@ recent:
     mergedPR: 32
     openPR: 21
     closedIssue: 3
-    openIssue: 2
+    openIssue: 3
     commit: 27
   last90d:
     since: 2026-06-10
@@ -47,7 +47,7 @@ recent:
     mergedPR: 45
     openPR: 26
     closedIssue: 3
-    openIssue: 2
+    openIssue: 3
     commit: 41
   last180d:
     since: 2026-03-12
@@ -55,7 +55,7 @@ recent:
     mergedPR: 78
     openPR: 31
     closedIssue: 4
-    openIssue: 4
+    openIssue: 5
     commit: 74
   last360d:
     since: 2025-09-13
@@ -63,7 +63,7 @@ recent:
     mergedPR: 165
     openPR: 33
     closedIssue: 12
-    openIssue: 5
+    openIssue: 6
     commit: 169
   last720d:
     since: 2024-09-18
@@ -71,18 +71,18 @@ recent:
     mergedPR: 318
     openPR: 35
     closedIssue: 27
-    openIssue: 6
+    openIssue: 7
     commit: 575
 total:
   release: 1
   mergedPR: 1576
   openPR: 35
   closedIssue: 211
-  openIssue: 12
+  openIssue: 13
   commit: 6019
 ---
 path: /home/runner/.x-repo/github.com/openshift/oc
-collectedAt: 2026-09-08T02:21:34Z
+collectedAt: 2026-09-08T05:33:22Z
 loc:
   Go:
     code: 1996830
