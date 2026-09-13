@@ -1,3 +1,13 @@
+- repo: spack
+  srcname: oc
+  visiblename: oc
+  version: main
+  origversion: null
+  status: rolling
+  maintainers:
+    - alecbcs@spack
+  licenses:
+    - Apache-2.0
 - repo: chromebrew
   srcname: oc
   visiblename: oc
@@ -104,22 +114,6 @@
     - Apache-2.0
   categories:
     - Unspecified
-- repo: pld
-  srcname: oc
-  visiblename: oc
-  version: "2.0"
-  origversion: 2.0-3
-  status: outdated
-- repo: spack
-  srcname: oc
-  visiblename: oc
-  version: main
-  origversion: null
-  status: rolling
-  maintainers:
-    - alecbcs@spack
-  licenses:
-    - Apache-2.0
 - repo: spack
   srcname: oc
   visiblename: oc
@@ -580,3 +574,9 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: pld
+  srcname: oc
+  visiblename: oc
+  version: "2.0"
+  origversion: 2.0-3
+  status: outdated
