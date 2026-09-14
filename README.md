@@ -57,20 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 8 | 10 | 1 | 2 | 0 |
-| last60d | 2026-07-15 | 0 | 32 | 26 | 2 | 2 | 0 |
-| 90d | 2026-06-15 | 0 | 44 | 31 | 3 | 3 | 0 |
-| last180d | 2026-03-17 | 0 | 79 | 35 | 4 | 5 | 0 |
-| 360d | 2025-09-18 | 0 | 164 | 38 | 11 | 6 | 0 |
-| last720d | 2024-09-23 | 0 | 317 | 40 | 27 | 7 | 573 |
-
-## Distribution status
-
-Reported by **61** distros on [repology.org](https://repology.org/project/oc). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| openSUSE Tumbleweed | `4.22.0` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 8 | 10 | 1 | 2 | 4 |
+| last60d | 2026-07-16 | 0 | 32 | 26 | 1 | 2 | 20 |
+| 90d | 2026-06-16 | 0 | 44 | 31 | 3 | 3 | 42 |
+| last180d | 2026-03-18 | 0 | 75 | 35 | 4 | 5 | 66 |
+| 360d | 2025-09-19 | 0 | 163 | 38 | 11 | 6 | 167 |
+| last720d | 2024-09-24 | 0 | 316 | 40 | 26 | 7 | 573 |
 
 ## Improve this data
 
@@ -81,4 +73,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:05:56Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:00:55Z._
