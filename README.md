@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 11 | 12 | 1 | 2 | 7 |
-| last60d | 2026-07-22 | 0 | 33 | 27 | 1 | 2 | 19 |
-| 90d | 2026-06-22 | 0 | 48 | 32 | 3 | 3 | 41 |
-| last180d | 2026-03-24 | 0 | 76 | 37 | 4 | 5 | 67 |
-| 360d | 2025-09-25 | 0 | 168 | 40 | 11 | 6 | 162 |
-| last720d | 2024-09-30 | 0 | 316 | 42 | 26 | 7 | 573 |
+| 30d | 2026-08-22 | 0 | 11 | 12 | 1 | 2 | 7 |
+| last60d | 2026-07-23 | 0 | 33 | 27 | 1 | 2 | 19 |
+| 90d | 2026-06-23 | 0 | 48 | 32 | 3 | 3 | 41 |
+| last180d | 2026-03-25 | 0 | 76 | 37 | 4 | 5 | 67 |
+| 360d | 2025-09-26 | 0 | 168 | 40 | 11 | 6 | 162 |
+| last720d | 2024-10-01 | 0 | 316 | 42 | 26 | 7 | 571 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:54:59Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:01:48Z._
