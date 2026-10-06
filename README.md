@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 249 · **Forks**: 481 · **Open issues**: 226 · **Contributors**: 588
+- **Stars**: 249 · **Forks**: 482 · **Open issues**: 227 · **Contributors**: 588
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 1589 · **Open PRs**: 43 · **Closed issues**: 212 · **Open issues**: 14 · **Commits**: 6038
+- **Releases**: 1 · **Merged PRs**: 1589 · **Open PRs**: 41 · **Closed issues**: 212 · **Open issues**: 15 · **Commits**: 6038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 10 | 15 | 1 | 2 | 8 |
-| last60d | 2026-08-06 | 0 | 23 | 23 | 2 | 3 | 13 |
-| 90d | 2026-07-07 | 0 | 48 | 31 | 4 | 4 | 39 |
-| last180d | 2026-04-08 | 0 | 75 | 38 | 5 | 6 | 67 |
-| 360d | 2025-10-10 | 0 | 164 | 41 | 12 | 7 | 158 |
-| last720d | 2024-10-15 | 0 | 313 | 43 | 27 | 8 | 566 |
+| 30d | 2026-09-06 | 0 | 10 | 16 | 1 | 3 | 0 |
+| last60d | 2026-08-07 | 0 | 23 | 21 | 2 | 4 | 0 |
+| 90d | 2026-07-08 | 0 | 45 | 29 | 4 | 5 | 0 |
+| last180d | 2026-04-09 | 0 | 75 | 36 | 5 | 7 | 0 |
+| 360d | 2025-10-11 | 0 | 164 | 39 | 12 | 8 | 0 |
+| last720d | 2024-10-16 | 0 | 313 | 41 | 27 | 9 | 564 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:33:13Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:16:08Z._
