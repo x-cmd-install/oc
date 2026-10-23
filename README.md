@@ -47,22 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 250 · **Forks**: 485 · **Open issues**: 229 · **Contributors**: 586
+- **Stars**: 250 · **Forks**: 487 · **Open issues**: 230 · **Contributors**: 586
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 1597 · **Open PRs**: 39 · **Closed issues**: 214 · **Open issues**: 15 · **Commits**: 6043
+- **Releases**: 1 · **Merged PRs**: 1597 · **Open PRs**: 40 · **Closed issues**: 215 · **Open issues**: 15 · **Commits**: 6043
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 10 | 10 | 2 | 3 | 6 |
-| last60d | 2026-08-23 | 0 | 23 | 18 | 3 | 5 | 15 |
-| 90d | 2026-07-24 | 0 | 45 | 25 | 3 | 5 | 27 |
-| last180d | 2026-04-25 | 0 | 76 | 32 | 6 | 7 | 66 |
-| 360d | 2025-10-27 | 0 | 168 | 37 | 14 | 8 | 152 |
-| last720d | 2024-11-01 | 0 | 317 | 39 | 29 | 9 | 559 |
+| 30d | 2026-09-23 | 0 | 10 | 11 | 2 | 4 | 6 |
+| last60d | 2026-08-24 | 0 | 23 | 18 | 3 | 5 | 15 |
+| 90d | 2026-07-25 | 0 | 45 | 26 | 3 | 6 | 27 |
+| last180d | 2026-04-26 | 0 | 76 | 33 | 7 | 7 | 66 |
+| 360d | 2025-10-28 | 0 | 168 | 38 | 15 | 8 | 152 |
+| last720d | 2024-11-02 | 0 | 317 | 40 | 30 | 9 | 558 |
+
+## Distribution status
+
+Reported by **62** distros on [repology.org](https://repology.org/project/oc). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| openSUSE Tumbleweed | `4.22.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +81,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:35:03Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:37:29Z._
