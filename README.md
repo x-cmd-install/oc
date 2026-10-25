@@ -14,15 +14,15 @@ x install oc
 
 ## Code insight
 
-Total: **2,207,898** lines of code across **10610** files in the top 5 languages.
+Total: **2,290,970** lines of code across **11026** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,998,025 | 437,323 | 231,165 | 10163 |
-| Yaml | 111,475 | 1,256 | 1,030 | 233 |
-| Json | 67,504 | 0 | 3 | 33 |
-| AssemblyGAS | 14,284 | 1,550 | 2,986 | 91 |
-| Protobuf | 10,615 | 27,750 | 6,169 | 90 |
+| Go | 2,067,606 | 462,477 | 242,149 | 10565 |
+| Yaml | 111,568 | 1,256 | 1,033 | 233 |
+| Json | 67,512 | 0 | 3 | 33 |
+| AssemblyGAS | 25,948 | 1,837 | 3,430 | 103 |
+| Protobuf | 11,188 | 31,355 | 6,512 | 92 |
 
 ## OpenSSF Scorecard
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.0.0-alpha.0`
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
-- **Stars**: 250 · **Forks**: 488 · **Open issues**: 230 · **Contributors**: 586
+- **Stars**: 250 · **Forks**: 489 · **Open issues**: 230 · **Contributors**: 586
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 1597 · **Open PRs**: 41 · **Closed issues**: 215 · **Open issues**: 15 · **Commits**: 6043
+- **Releases**: 1 · **Merged PRs**: 1598 · **Open PRs**: 40 · **Closed issues**: 215 · **Open issues**: 15 · **Commits**: 6051
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 4 | 10 | 2 | 4 | 6 |
-| last60d | 2026-08-25 | 0 | 22 | 19 | 3 | 5 | 15 |
-| 90d | 2026-07-26 | 0 | 45 | 27 | 3 | 6 | 27 |
-| last180d | 2026-04-27 | 0 | 76 | 34 | 6 | 7 | 66 |
-| 360d | 2025-10-29 | 0 | 168 | 39 | 14 | 8 | 152 |
-| last720d | 2024-11-03 | 0 | 317 | 41 | 30 | 9 | 558 |
+| 30d | 2026-09-25 | 0 | 5 | 9 | 2 | 3 | 10 |
+| last60d | 2026-08-26 | 0 | 22 | 18 | 3 | 5 | 21 |
+| 90d | 2026-07-27 | 0 | 46 | 26 | 3 | 6 | 31 |
+| last180d | 2026-04-28 | 0 | 76 | 33 | 6 | 7 | 72 |
+| 360d | 2025-10-30 | 0 | 169 | 38 | 14 | 8 | 157 |
+| last720d | 2024-11-04 | 0 | 318 | 40 | 30 | 9 | 566 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:26:46Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:24:48Z._
