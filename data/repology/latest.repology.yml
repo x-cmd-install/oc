@@ -2,8 +2,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.7
-  origversion: 4.22.7-1~ops2deb
+  version: 4.22.11
+  origversion: 4.22.11-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -41,6 +41,15 @@
     - LGPL-2
   categories:
     - sci-libs
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.16
+  origversion: 4.21.16-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: liguros_stable
   srcname: sci-libs/oc
   visiblename: sci-libs/oc
@@ -224,15 +233,6 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.11
-  origversion: 4.22.11-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
   version: 4.22.10
   origversion: 4.22.10-1~ops2deb
   status: legacy
@@ -253,6 +253,15 @@
   visiblename: oc
   version: 4.22.8
   origversion: 4.22.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.7
+  origversion: 4.22.7-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -334,15 +343,6 @@
   visiblename: oc
   version: 4.21.17
   origversion: 4.21.17-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.16
-  origversion: 4.21.16-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
