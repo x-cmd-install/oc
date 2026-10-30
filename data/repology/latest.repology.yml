@@ -2,8 +2,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.11
-  origversion: 4.22.11-1~ops2deb
+  version: 4.22.13
+  origversion: 4.22.13-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -41,15 +41,6 @@
     - LGPL-2
   categories:
     - sci-libs
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.16
-  origversion: 4.21.16-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: liguros_stable
   srcname: sci-libs/oc
   visiblename: sci-libs/oc
@@ -152,9 +143,27 @@
   subrepo: devops
   binname: oc
   visiblename: oc
+  version: 5.0.0
+  origversion: 5.0.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.21
+  origversion: 4.22.21-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
   version: 4.22.20
   origversion: 4.22.20-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -215,8 +224,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.13
-  origversion: 4.22.13-1~ops2deb
+  version: 4.22.12
+  origversion: 4.22.12-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -224,8 +233,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.12
-  origversion: 4.22.12-1~ops2deb
+  version: 4.22.11
+  origversion: 4.22.11-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -343,6 +352,15 @@
   visiblename: oc
   version: 4.21.17
   origversion: 4.21.17-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.16
+  origversion: 4.21.16-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -559,24 +577,6 @@
   visiblename: oc
   version: 4.19.12
   origversion: 4.19.12-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.19.11
-  origversion: 4.19.11-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.19.10
-  origversion: 4.19.10-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
