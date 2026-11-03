@@ -14,11 +14,11 @@ x install oc
 
 ## Code insight
 
-Total: **2,291,588** lines of code across **11028** files in the top 5 languages.
+Total: **2,292,185** lines of code across **11028** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,068,224 | 462,520 | 242,184 | 10567 |
+| Go | 2,068,821 | 462,525 | 242,232 | 10567 |
 | Yaml | 111,568 | 1,256 | 1,033 | 233 |
 | Json | 67,512 | 0 | 3 | 33 |
 | AssemblyGAS | 25,948 | 1,837 | 3,430 | 103 |
@@ -43,26 +43,34 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.0.0-alpha.0`
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-03
 
 ## Popularity
 
-- **Stars**: 250 · **Forks**: 491 · **Open issues**: 230 · **Contributors**: 587
+- **Stars**: 250 · **Forks**: 491 · **Open issues**: 231 · **Contributors**: 587
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 1602 · **Open PRs**: 38 · **Closed issues**: 215 · **Open issues**: 15 · **Commits**: 6066
+- **Releases**: 1 · **Merged PRs**: 1603 · **Open PRs**: 43 · **Closed issues**: 215 · **Open issues**: 16 · **Commits**: 6068
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 5 | 8 | 1 | 3 | 14 |
-| last60d | 2026-09-03 | 0 | 22 | 14 | 2 | 5 | 33 |
-| 90d | 2026-08-04 | 0 | 40 | 21 | 3 | 6 | 38 |
-| last180d | 2026-05-06 | 0 | 78 | 32 | 6 | 7 | 84 |
-| 360d | 2025-11-07 | 0 | 162 | 36 | 11 | 8 | 167 |
-| last720d | 2024-11-12 | 0 | 316 | 38 | 30 | 9 | 575 |
+| 30d | 2026-10-04 | 0 | 6 | 13 | 1 | 4 | 0 |
+| last60d | 2026-09-04 | 0 | 23 | 19 | 2 | 6 | 0 |
+| 90d | 2026-08-05 | 0 | 39 | 25 | 3 | 7 | 0 |
+| last180d | 2026-05-07 | 0 | 79 | 37 | 6 | 8 | 0 |
+| 360d | 2025-11-08 | 0 | 163 | 41 | 11 | 9 | 0 |
+| last720d | 2024-11-13 | 0 | 315 | 43 | 30 | 10 | 576 |
+
+## Distribution status
+
+Reported by **62** distros on [repology.org](https://repology.org/project/oc). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| openSUSE Tumbleweed | `4.22.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +81,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:02:04Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:51:25Z._
