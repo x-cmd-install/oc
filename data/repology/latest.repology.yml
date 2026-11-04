@@ -2,8 +2,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.12
-  origversion: 4.22.12-1~ops2deb
+  version: 4.21.15
+  origversion: 4.21.15-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -11,8 +11,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.11
-  origversion: 4.22.11-1~ops2deb
+  version: 4.21.14
+  origversion: 4.21.14-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -20,8 +20,44 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.10
-  origversion: 4.22.10-1~ops2deb
+  version: 4.21.13
+  origversion: 4.21.13-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.12
+  origversion: 4.21.12-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.7
+  origversion: 4.21.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.15
+  origversion: 4.22.15-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.14
+  origversion: 4.22.14-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -38,11 +74,33 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 5.0.0
-  origversion: 5.0.0-1~ops2deb
-  status: newest
+  version: 4.22.12
+  origversion: 4.22.12-1~ops2deb
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.6
+  origversion: 4.21.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: gentoo
+  srcname: sci-libs/oc
+  visiblename: sci-libs/oc
+  version: "2.0"
+  origversion: 2.0-r1
+  status: outdated
+  summary: Network Data Access Protocol client C library
+  maintainers:
+    - sci@gentoo.org
+  licenses:
+    - LGPL-2
+  categories:
+    - sci-libs
 - repo: chromebrew
   srcname: oc
   visiblename: oc
@@ -64,19 +122,6 @@
     - jhixson@freebsd.org
   categories:
     - sysutils
-- repo: gentoo
-  srcname: sci-libs/oc
-  visiblename: sci-libs/oc
-  version: "2.0"
-  origversion: 2.0-r1
-  status: outdated
-  summary: Network Data Access Protocol client C library
-  maintainers:
-    - sci@gentoo.org
-  licenses:
-    - LGPL-2
-  categories:
-    - sci-libs
 - repo: liguros_stable
   srcname: sci-libs/oc
   visiblename: sci-libs/oc
@@ -179,6 +224,15 @@
   subrepo: devops
   binname: oc
   visiblename: oc
+  version: 5.0.0
+  origversion: 5.0.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
   version: 4.22.21
   origversion: 4.22.21-1~ops2deb
   status: legacy
@@ -233,8 +287,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.15
-  origversion: 4.22.15-1~ops2deb
+  version: 4.22.11
+  origversion: 4.22.11-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -242,8 +296,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.14
-  origversion: 4.22.14-1~ops2deb
+  version: 4.22.10
+  origversion: 4.22.10-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -361,60 +415,6 @@
   visiblename: oc
   version: 4.21.16
   origversion: 4.21.16-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.15
-  origversion: 4.21.15-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.14
-  origversion: 4.21.14-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.13
-  origversion: 4.21.13-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.12
-  origversion: 4.21.12-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.7
-  origversion: 4.21.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.21.6
-  origversion: 4.21.6-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
