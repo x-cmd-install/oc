@@ -2,8 +2,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.21.18
-  origversion: 4.21.18-1~ops2deb
+  version: 4.22.6
+  origversion: 4.22.6-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -11,8 +11,26 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.10
-  origversion: 4.22.10-1~ops2deb
+  version: 4.22.5
+  origversion: 4.22.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.4
+  origversion: 4.22.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.7
+  origversion: 4.22.7-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -30,7 +48,7 @@
   binname: oc
   visiblename: sysutils/oc
   version: "4.9"
-  origversion: "4.9_49"
+  origversion: "4.9_50"
   status: outdated
   summary: OpenShift Command Line
   maintainers:
@@ -269,6 +287,15 @@
   subrepo: devops
   binname: oc
   visiblename: oc
+  version: 4.22.10
+  origversion: 4.22.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
   version: 4.22.9
   origversion: 4.22.9-1~ops2deb
   status: legacy
@@ -280,42 +307,6 @@
   visiblename: oc
   version: 4.22.8
   origversion: 4.22.8-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.7
-  origversion: 4.22.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.6
-  origversion: 4.22.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.5
-  origversion: 4.22.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.4
-  origversion: 4.22.4-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -352,6 +343,15 @@
   visiblename: oc
   version: 4.22.0
   origversion: 4.22.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.18
+  origversion: 4.21.18-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
