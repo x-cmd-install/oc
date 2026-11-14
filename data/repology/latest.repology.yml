@@ -134,9 +134,18 @@
   subrepo: devops
   binname: oc
   visiblename: oc
+  version: 5.0.2
+  origversion: 5.0.2-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
   version: 5.0.1
   origversion: 5.0.1-1~ops2deb
-  status: newest
+  status: legacy
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
@@ -568,15 +577,6 @@
   visiblename: oc
   version: 4.19.14
   origversion: 4.19.14-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.19.13
-  origversion: 4.19.13-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
