@@ -14,11 +14,11 @@ x install oc
 
 ## Code insight
 
-Total: **2,296,060** lines of code across **11032** files in the top 5 languages.
+Total: **2,296,295** lines of code across **11033** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,069,367 | 462,708 | 242,286 | 10570 |
+| Go | 2,069,602 | 462,718 | 242,309 | 10571 |
 | Yaml | 111,568 | 1,256 | 1,033 | 233 |
 | Json | 67,512 | 0 | 3 | 33 |
 | AssemblyGAS | 29,277 | 2,275 | 3,796 | 104 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.0.0-alpha.0`
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-13
 
 ## Popularity
 
-- **Stars**: 250 · **Forks**: 491 · **Open issues**: 231 · **Contributors**: 584
+- **Stars**: 251 · **Forks**: 493 · **Open issues**: 231 · **Contributors**: 584
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 1609 · **Open PRs**: 44 · **Closed issues**: 215 · **Open issues**: 16 · **Commits**: 6076
+- **Releases**: 1 · **Merged PRs**: 1612 · **Open PRs**: 41 · **Closed issues**: 215 · **Open issues**: 16 · **Commits**: 6080
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 6 | 14 | 1 | 3 | 16 |
-| last60d | 2026-09-14 | 0 | 23 | 18 | 2 | 5 | 33 |
-| 90d | 2026-08-15 | 0 | 35 | 25 | 3 | 7 | 41 |
-| last180d | 2026-05-17 | 0 | 84 | 38 | 6 | 8 | 88 |
-| 360d | 2025-11-18 | 0 | 163 | 42 | 10 | 9 | 172 |
-| last720d | 2024-11-23 | 0 | 314 | 44 | 30 | 10 | 559 |
+| 30d | 2026-10-15 | 0 | 8 | 10 | 0 | 3 | 19 |
+| last60d | 2026-09-15 | 0 | 26 | 14 | 2 | 5 | 36 |
+| 90d | 2026-08-16 | 0 | 38 | 22 | 3 | 7 | 44 |
+| last180d | 2026-05-18 | 0 | 86 | 35 | 6 | 8 | 91 |
+| 360d | 2025-11-19 | 0 | 166 | 39 | 10 | 9 | 175 |
+| last720d | 2024-11-24 | 0 | 317 | 41 | 30 | 10 | 563 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:59:18Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:47:15Z._
