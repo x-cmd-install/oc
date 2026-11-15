@@ -1,3 +1,21 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.7
+  origversion: 4.22.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.19.15
+  origversion: 4.19.15-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: chromebrew
   srcname: oc
   visiblename: oc
@@ -287,15 +305,6 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.7
-  origversion: 4.22.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
   version: 4.22.6
   origversion: 4.22.6-1~ops2deb
   status: legacy
@@ -559,15 +568,6 @@
   visiblename: oc
   version: 4.19.16
   origversion: 4.19.16-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.19.15
-  origversion: 4.19.15-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
