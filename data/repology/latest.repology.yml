@@ -2,20 +2,30 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.7
-  origversion: 4.22.7-1~ops2deb
-  status: legacy
+  version: 5.0.2
+  origversion: 5.0.2-1~ops2deb
+  status: newest
   maintainers:
     - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.19.15
-  origversion: 4.19.15-1~ops2deb
+  version: 5.0.1
+  origversion: 5.0.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: spack
+  srcname: oc
+  visiblename: oc
+  version: 4.21.0-202601121715
+  origversion: null
+  status: outdated
+  maintainers:
+    - alecbcs@spack
+  licenses:
+    - Apache-2.0
 - repo: chromebrew
   srcname: oc
   visiblename: oc
@@ -138,34 +148,6 @@
     - alecbcs@spack
   licenses:
     - Apache-2.0
-- repo: spack
-  srcname: oc
-  visiblename: oc
-  version: 4.21.0-202601121715
-  origversion: null
-  status: outdated
-  maintainers:
-    - alecbcs@spack
-  licenses:
-    - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 5.0.2
-  origversion: 5.0.2-1~ops2deb
-  status: newest
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 5.0.1
-  origversion: 5.0.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: devops
   binname: oc
@@ -298,6 +280,15 @@
   visiblename: oc
   version: 4.22.8
   origversion: 4.22.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.7
+  origversion: 4.22.7-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -568,6 +559,15 @@
   visiblename: oc
   version: 4.19.16
   origversion: 4.19.16-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.19.15
+  origversion: 4.19.15-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
