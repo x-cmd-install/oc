@@ -2,8 +2,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.21.13
-  origversion: 4.21.13-1~ops2deb
+  version: 4.22.16
+  origversion: 4.22.16-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -11,8 +11,30 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.21.16
-  origversion: 4.21.16-1~ops2deb
+  version: 4.22.15
+  origversion: 4.22.15-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: yacp
+  srcname: oc
+  binnames:
+    - oc
+    - liboc1
+    - liboc-devel
+  visiblename: oc
+  version: "2.0"
+  origversion: null
+  status: outdated
+  summary: Network Data Access Protocol client C library
+  categories:
+    - Libs
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.14
+  origversion: 4.22.14-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -20,8 +42,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.21.15
-  origversion: 4.21.15-1~ops2deb
+  version: 4.22.13
+  origversion: 4.22.13-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -29,8 +51,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.21.14
-  origversion: 4.21.14-1~ops2deb
+  version: 4.22.17
+  origversion: 4.22.17-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -233,51 +255,6 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.17
-  origversion: 4.22.17-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.16
-  origversion: 4.22.16-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.15
-  origversion: 4.22.15-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.14
-  origversion: 4.22.14-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.13
-  origversion: 4.22.13-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
   version: 4.22.12
   origversion: 4.22.12-1~ops2deb
   status: legacy
@@ -406,6 +383,42 @@
   visiblename: oc
   version: 4.21.17
   origversion: 4.21.17-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.16
+  origversion: 4.21.16-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.15
+  origversion: 4.21.15-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.14
+  origversion: 4.21.14-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.21.13
+  origversion: 4.21.13-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -580,16 +593,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: yacp
-  srcname: oc
-  binnames:
-    - oc
-    - liboc1
-    - liboc-devel
-  visiblename: oc
-  version: "2.0"
-  origversion: null
-  status: outdated
-  summary: Network Data Access Protocol client C library
-  categories:
-    - Libs
