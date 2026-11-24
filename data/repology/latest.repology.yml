@@ -2,8 +2,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.16
-  origversion: 4.22.16-1~ops2deb
+  version: 4.22.15
+  origversion: 4.22.15-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -11,8 +11,8 @@
   subrepo: devops
   binname: oc
   visiblename: oc
-  version: 4.22.15
-  origversion: 4.22.15-1~ops2deb
+  version: 4.22.16
+  origversion: 4.22.16-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -29,33 +29,6 @@
   summary: Network Data Access Protocol client C library
   categories:
     - Libs
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.14
-  origversion: 4.22.14-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.13
-  origversion: 4.22.13-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: oc
-  visiblename: oc
-  version: 4.22.17
-  origversion: 4.22.17-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: chromebrew
   srcname: oc
   visiblename: oc
@@ -131,6 +104,17 @@
     - Apache-2
   categories:
     - sysutils
+- repo: nix_unstable
+  srcname: oc
+  visiblename: oc
+  version: 0.5.10
+  origversion: null
+  status: outdated
+  summary: Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands
+  maintainers:
+    - pol.dellaiera@protonmail.com
+  licenses:
+    - MIT
 - repo: openbsd
   srcname: sysutils/oc
   binname: oc
@@ -248,6 +232,33 @@
   visiblename: oc
   version: 4.22.18
   origversion: 4.22.18-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.17
+  origversion: 4.22.17-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.14
+  origversion: 4.22.14-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: oc
+  visiblename: oc
+  version: 4.22.13
+  origversion: 4.22.13-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
