@@ -14,14 +14,14 @@ x install oc
 
 ## Code insight
 
-Total: **2,296,682** lines of code across **11035** files in the top 5 languages.
+Total: **2,299,801** lines of code across **11043** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,069,989 | 462,768 | 242,355 | 10573 |
+| Go | 2,072,409 | 463,264 | 242,737 | 10577 |
 | Yaml | 111,568 | 1,256 | 1,033 | 233 |
 | Json | 67,512 | 0 | 3 | 33 |
-| AssemblyGAS | 29,277 | 2,275 | 3,796 | 104 |
+| AssemblyGAS | 29,976 | 2,328 | 3,877 | 108 |
 | Protobuf | 11,188 | 31,355 | 6,512 | 92 |
 
 ## OpenSSF Scorecard
@@ -43,35 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.0.0-alpha.0`
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 251 · **Forks**: 493 · **Open issues**: 231 · **Contributors**: 582
+- **Stars**: 251 · **Forks**: 493 · **Open issues**: 231 · **Contributors**: 581
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 1616 · **Open PRs**: 55 · **Closed issues**: 215 · **Open issues**: 16 · **Commits**: 6085
+- **Releases**: 1 · **Merged PRs**: 1617 · **Open PRs**: 54 · **Closed issues**: 215 · **Open issues**: 16 · **Commits**: 6087
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 12 | 22 | 0 | 1 | 11 |
-| last60d | 2026-09-28 | 0 | 19 | 28 | 2 | 4 | 36 |
-| 90d | 2026-08-29 | 0 | 37 | 36 | 3 | 6 | 46 |
-| last180d | 2026-05-31 | 0 | 88 | 49 | 5 | 8 | 93 |
-| 360d | 2025-12-02 | 0 | 161 | 54 | 10 | 9 | 172 |
-| last720d | 2024-12-07 | 0 | 304 | 55 | 29 | 10 | 541 |
-
-## Distribution status
-
-Reported by **63** distros on [repology.org](https://repology.org/project/oc). **1** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.5.10` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.22.0` | ⚠️ outdated |
+| 30d | 2026-10-29 | 0 | 12 | 21 | 0 | 1 | 0 |
+| last60d | 2026-09-29 | 0 | 20 | 27 | 2 | 4 | 0 |
+| 90d | 2026-08-30 | 0 | 38 | 34 | 3 | 6 | 0 |
+| last180d | 2026-06-01 | 0 | 89 | 48 | 5 | 8 | 0 |
+| 360d | 2025-12-03 | 0 | 162 | 53 | 10 | 9 | 0 |
+| last720d | 2024-12-08 | 0 | 305 | 54 | 29 | 10 | 542 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for oc lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:10:32Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:06:16Z._
