@@ -2,15 +2,15 @@ about:
   description: "The OpenShift Command Line, part of OKD"
   license: Apache-2.0
   homepage: https://www.openshift.org
-  head: f4c5fb0
+  head: 7fbcb2e
   archived: false
   latestVersion: "v0.0.0-alpha.0"
   latestRelease: ""
   latestPrerelease: "v0.0.0-alpha.0"
-  collectedAt: 2026-11-27T09:10:04Z
+  collectedAt: 2026-11-28T09:05:40Z
 timeline:
   created: 2019-05-28
-  lastCommit: 2026-11-24
+  lastCommit: 2026-11-27
   lastVersion: 2019-07-18
   lastRelease: 
   lastPrerelease: 2019-07-18
@@ -19,7 +19,7 @@ popularity:
   watcher: 19
   fork: 493
   release: 1
-  contributor: 582
+  contributor: 581
   pullRequest: 2257
   issue: 231
 language:
@@ -30,69 +30,69 @@ language:
 totalBytes: 5330852
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 12
-    openPR: 22
+    openPR: 21
     closedIssue: 0
     openIssue: 1
-    commit: 11
+    commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 19
-    openPR: 28
+    mergedPR: 20
+    openPR: 27
     closedIssue: 2
     openIssue: 4
-    commit: 36
+    commit: 0
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 37
-    openPR: 36
+    mergedPR: 38
+    openPR: 34
     closedIssue: 3
     openIssue: 6
-    commit: 46
+    commit: 0
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 88
-    openPR: 49
+    mergedPR: 89
+    openPR: 48
     closedIssue: 5
     openIssue: 8
-    commit: 93
+    commit: 0
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 161
-    openPR: 54
+    mergedPR: 162
+    openPR: 53
     closedIssue: 10
     openIssue: 9
-    commit: 172
+    commit: 0
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 304
-    openPR: 55
+    mergedPR: 305
+    openPR: 54
     closedIssue: 29
     openIssue: 10
-    commit: 541
+    commit: 542
 total:
   release: 1
-  mergedPR: 1616
-  openPR: 55
+  mergedPR: 1617
+  openPR: 54
   closedIssue: 215
   openIssue: 16
-  commit: 6085
+  commit: 6087
 ---
 path: /home/runner/.x-repo/github.com/openshift/oc
-collectedAt: 2026-11-27T09:10:22Z
+collectedAt: 2026-11-28T09:05:55Z
 loc:
   Go:
-    code: 2069989
-    comments: 462768
-    blanks: 242355
-    files: 10573
+    code: 2072409
+    comments: 463264
+    blanks: 242737
+    files: 10577
   Yaml:
     code: 111568
     comments: 1256
@@ -104,10 +104,10 @@ loc:
     blanks: 3
     files: 33
   AssemblyGAS:
-    code: 29277
-    comments: 2275
-    blanks: 3796
-    files: 104
+    code: 29976
+    comments: 2328
+    blanks: 3877
+    files: 108
   Protobuf:
     code: 11188
     comments: 31355
@@ -199,10 +199,10 @@ loc:
     blanks: 669
     files: 51
 total:
-  code: 2300306
-  comments: 527914
-  blanks: 267669
-  files: 11510
+  code: 2303425
+  comments: 528463
+  blanks: 268132
+  files: 11518
 ---
 date: "2026-11-16"
 repo:
